@@ -109,3 +109,8 @@ venv.bak/
 *-solved.ipynb
 
 .idea/
+
+# Node.js / npm
+node_modules/
+package.json
+package-lock.json
